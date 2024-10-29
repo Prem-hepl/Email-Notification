@@ -1,4 +1,4 @@
-package com.mail.EmailNotification.model;
+package com.mail.email_notification.model;
 
 import jakarta.validation.constraints.NotBlank;
 import lombok.Data;

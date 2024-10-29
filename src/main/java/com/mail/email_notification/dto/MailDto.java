@@ -1,4 +1,4 @@
-package com.mail.EmailNotification.dto;
+package com.mail.email_notification.dto;
 
 import lombok.Data;
 

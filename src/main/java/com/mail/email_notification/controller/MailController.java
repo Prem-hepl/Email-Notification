@@ -1,7 +1,7 @@
-package com.mail.EmailNotification.controller;
+package com.mail.email_notification.controller;
 
-import com.mail.EmailNotification.dto.MailDto;
-import com.mail.EmailNotification.service.MailService;
+import com.mail.email_notification.dto.MailDto;
+import com.mail.email_notification.service.MailService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;

@@ -1,8 +1,6 @@
-package com.mail.EmailNotification.service;
+package com.mail.email_notification.service;
 
-import com.mail.EmailNotification.dto.MailDto;
-import com.mail.EmailNotification.model.Mail;
-import com.mail.EmailNotification.repo.MailRepo;
+import com.mail.email_notification.dto.MailDto;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.mail.SimpleMailMessage;
 import org.springframework.mail.javamail.JavaMailSender;

@@ -1,4 +1,4 @@
-package com.mail.EmailNotification.swagger;
+package com.mail.email_notification.swagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

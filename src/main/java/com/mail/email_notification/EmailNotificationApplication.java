@@ -1,4 +1,4 @@
-package com.mail.EmailNotification;
+package com.mail.email_notification;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
